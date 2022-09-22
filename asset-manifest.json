@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abogadagarnica/static/css/main.f611fa7d.css",
+    "main.js": "/abogadagarnica/static/js/main.e1e6fad1.js",
+    "index.html": "/abogadagarnica/index.html",
+    "main.f611fa7d.css.map": "/abogadagarnica/static/css/main.f611fa7d.css.map",
+    "main.e1e6fad1.js.map": "/abogadagarnica/static/js/main.e1e6fad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f611fa7d.css",
+    "static/js/main.e1e6fad1.js"
+  ]
+}
